@@ -1,0 +1,12 @@
+streamlit
+spacy
+textstat
+shap
+lime
+scikit-learn
+xgboost
+transformers
+pandas
+matplotlib
+seaborn
+wordcloud
